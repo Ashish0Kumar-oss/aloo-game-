@@ -1,0 +1,6 @@
+{
+  "name": "Aloo Game",
+  "description": "The ultimate potato arcade frenzy! Bounce sizzling potatoes, sprint down dangerous kitchen counters, unlock crispy recipes, and master spicy power-ups.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

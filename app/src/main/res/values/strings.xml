@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Aloo Game</string>
+    <string name="tagline">The Ultimate Sizzling Potato Arcade!</string>
+    <string name="play_garam_aloo">Garam Aloo (Juggle)</string>
+    <string name="play_kitchen_dash">Kitchen Dash (Runner)</string>
+    <string name="recipe_kitchen">Aloo Kitchen (Cooking)</string>
+    <string name="aloo_wardrobe">Spud Skins (Wardrobe)</string>
+    <string name="achievements">Badges &amp; Stats</string>
+    <string name="high_score">High Score</string>
+    <string name="coins">Aloo Coins</string>
+    <string name="score">Score</string>
+    <string name="heat">Heat</string>
+    <string name="combo">Combo</string>
+    <string name="game_over">Game Over!</string>
+    <string name="play_again">Play Again</string>
+    <string name="back_to_home">Home</string>
+    <string name="pause">Pause</string>
+    <string name="resume">Resume</string>
+    <string name="settings">Settings</string>
+    <string name="sound_effects">Sound FX</string>
+    <string name="haptics">Vibration</string>
+</resources>

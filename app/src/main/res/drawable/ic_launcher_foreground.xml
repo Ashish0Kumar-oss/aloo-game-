@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Potato Body Shadow -->
+    <path
+        android:fillColor="#D38A28"
+        android:pathData="M54,40 C68,40 76,48 76,64 C76,78 67,86 54,86 C41,86 32,78 32,64 C32,48 40,40 54,40 Z" />
+    <!-- Potato Body Main -->
+    <path
+        android:fillColor="#F5B041"
+        android:pathData="M54,39 C67,39 74,47 74,62 C74,76 66,84 54,84 C42,84 34,76 34,62 C34,47 41,39 54,39 Z" />
+    <!-- Potato Highlight -->
+    <path
+        android:fillColor="#FAD7A0"
+        android:pathData="M48,44 C53,44 56,47 56,51 C56,53 53,55 49,55 C45,55 42,52 42,48 C42,45 45,44 48,44 Z" />
+    <!-- Left Eye -->
+    <path
+        android:fillColor="#212121"
+        android:pathData="M46,58 A3.5,3.5 0 1,0 46,65 A3.5,3.5 0 1,0 46,58 Z" />
+    <!-- Left Eye Specular -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M45,59 A1.2,1.2 0 1,0 45,61.4 A1.2,1.2 0 1,0 45,59 Z" />
+    <!-- Right Eye -->
+    <path
+        android:fillColor="#212121"
+        android:pathData="M62,58 A3.5,3.5 0 1,0 62,65 A3.5,3.5 0 1,0 62,58 Z" />
+    <!-- Right Eye Specular -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M61,59 A1.2,1.2 0 1,0 61,61.4 A1.2,1.2 0 1,0 61,59 Z" />
+    <!-- Blushing Cheeks -->
+    <path
+        android:fillColor="#FF7043"
+        android:pathData="M39,63 A3,2 0 1,0 39,67 A3,2 0 1,0 39,63 Z" />
+    <path
+        android:fillColor="#FF7043"
+        android:pathData="M69,63 A3,2 0 1,0 69,67 A3,2 0 1,0 69,63 Z" />
+    <!-- Big Joyful Smile -->
+    <path
+        android:fillColor="#C0392B"
+        android:strokeColor="#873600"
+        android:strokeWidth="1.2"
+        android:pathData="M49,67 Q54,74 59,67 Z" />
+    <!-- Chef Hat Base -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M47,38 L61,38 L60,34 L48,34 Z" />
+    <path
+        android:fillColor="#E74C3C"
+        android:pathData="M47,36.5 L61,36.5 L60.5,38 L47.5,38 Z" />
+    <!-- Chef Hat Puffs -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M48,34 C43,34 43,26 48,26 C49,23 52,22 54,22 C56,22 59,23 60,26 C65,26 65,34 60,34 Z" />
+    <!-- Sparkles / Spices -->
+    <path
+        android:fillColor="#FFF176"
+        android:pathData="M32,38 L34,32 L36,38 L42,40 L36,42 L34,48 L32,42 L26,40 Z" />
+    <path
+        android:fillColor="#FFF176"
+        android:pathData="M74,34 L75,30 L76,34 L80,35 L76,36 L75,40 L74,36 L70,35 Z" />
+</vector>
